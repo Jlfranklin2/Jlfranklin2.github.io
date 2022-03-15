@@ -6,7 +6,7 @@ This website is all about me and the things I enjoy doing!
 
 ### Who am I?
 
-[link](https://uwbadgers.com/sports/football/roster/jaylan-franklin/9637)
+[UW Badgers Bio](https://uwbadgers.com/sports/football/roster/jaylan-franklin/9637)
 
 ```markdown
 Syntax highlighted code block
