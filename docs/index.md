@@ -10,13 +10,13 @@ This website is all about me and the things I enjoy doing!
 
 ```markdown
 
- **Introduction
+ **Introduction**
 Hello! My name is Jaylan Franklin, I am currently a Student-Athlete with the University of the Wisconsin Badgers
 
- **Hobbies & Interests
+ **Hobbies & Interests**
 I have enjoyed playing sports since i was a kid, being active was a major focal point in my family, it kept my 2 brothers and I out of trouble, but it also developed us to be mature and professional at a veey young age!
 
-  **Daily Activities
+  **Daily Activities**
 Being an athlete it's no surprise that my days usually consists of excercise and sweating, but one passion a lot of people may not know about my family and I is that we are avid gamers! Competition didnt end on the field and court for us, we even loved comepeting in the cyberspace as well.
 
 - Bulleted
