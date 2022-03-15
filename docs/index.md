@@ -27,7 +27,7 @@ Being an athlete it's no surprise that my days usually consists of excercise and
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Football](jlfranklin2.github.io/edit/main/docs/ECAF16D6-02B8-482E-A95C-3A4F47E6B837.JPG)
+[Link](url) and ![Football](Jlfranklin2.github.io/edit/main/docs/ECAF16D6-02B8-482E-A95C-3A4F47E6B837.JPG)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
