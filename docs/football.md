@@ -24,7 +24,7 @@ Being an athlete it's no surprise that my days usually consists of excercise and
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ./[Image](https://github.com/Jlfranklin2/Jlfranklin2.github.io/edit/main/docs/ECAF16D6-02B8-482E-A95C-3A4F47E6B837.JPG)
+[Link](url) and [Image](https://github.com/Jlfranklin2/Jlfranklin2.github.io/edit/main/docs/ECAF16D6-02B8-482E-A95C-3A4F47E6B837.JPG)
 ```
 
 
