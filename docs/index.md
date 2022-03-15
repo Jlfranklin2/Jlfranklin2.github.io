@@ -14,7 +14,7 @@ Syntax highlighted code block
 # Header 1
 Hello!
 ## Header 2
-Welcome to my page
+<h1 style="color:blue;">Welcome to my page</h1>
 ### Header 3
 
 - Bulleted
