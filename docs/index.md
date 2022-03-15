@@ -1,4 +1,4 @@
-## Jaylan's Lockerroom
+## Jaylan's Locker room
 
 This website is all about me and the things I enjoy doing!
 
